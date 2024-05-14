@@ -4,7 +4,7 @@ Welcome to the Simple Scholarship Website CRUD repository! This project is a bas
 
 ## Features
 
-Create: Add new scholarship information.
-Read: View the list of scholarships.
-Update: Edit existing scholarship details.
-Delete: Remove a scholarship entry.
+- **Create**: Add new scholarship information.
+- **Read**: View the list of scholarships.
+- **Update**: Edit existing scholarship details.
+- **Delete**: Remove a scholarship entry.
